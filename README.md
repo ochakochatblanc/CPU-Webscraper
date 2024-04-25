@@ -1,6 +1,6 @@
 # CPU-Webscraper
 
-Web scraper for CPU Userbenchmark site using selenium. [Link](https://www.cpu.userbenchmark.com/)
+Web scraper for CPU Userbenchmark site using selenium. [Link](https://cpu.userbenchmark.com/)
 
 ## Dependencies
 
