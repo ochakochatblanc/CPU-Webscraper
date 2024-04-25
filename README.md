@@ -10,8 +10,10 @@
 
 ## Installation
 
-To install selenium, Use package manager pip to run:
-`pip install selenium`
+To install selenium, Use package manager `pip` to run:
+```
+pip install selenium
+```
 
 ## Contributing
 
