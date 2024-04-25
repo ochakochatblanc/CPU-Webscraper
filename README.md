@@ -4,9 +4,9 @@
 
 ## Dependencies
 
-time
-csv
-selenium
+- time
+- csv
+- selenium
 
 ## Installation
 
